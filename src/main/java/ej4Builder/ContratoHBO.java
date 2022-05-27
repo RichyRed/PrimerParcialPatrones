@@ -12,8 +12,9 @@ public class ContratoHBO extends BuilderContrato{
     }
 
     @Override
-    public void buildlistaDeCanales(){
+    public void buildListaDeCanales() {
         contrato.setListaDeCanales("Dune, Batman");
     }
+
 
 }

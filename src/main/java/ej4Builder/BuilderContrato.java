@@ -12,7 +12,7 @@ public abstract class BuilderContrato {
     }
 
     public abstract void buildCosto();
-    public abstract void builEmpresa();
-    public abstract void listaDeCanales();
+    public abstract void buildEmpresa();
+    public abstract void buildListaDeCanales();
 
 }
